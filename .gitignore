@@ -1,0 +1,24 @@
+
+# Compiled Java files
+*.class
+
+# NetBeans generated output
+/build/
+/dist/
+
+# NetBeans local/private settings
+/nbproject/private/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and log files
+*.log
+*.tmp
